@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nanda (@mnkr9870)
 - 👀 I’m interested in Full Stack Development, Machine Learning and Quantitative Research.
-- 🌱 I’m currently learning React, Node and TypeScript
+- 🌱 I’m currently learning React, Node and TypeScript.
 - 💞️ I’m looking to collaborate on Front-end Development including HTML, CSS, JavaScript, React or Flask.
 - 📫 You can reach me at nanda.mangunuri@gmail.com
 - 😄 Pronouns: He/Him
