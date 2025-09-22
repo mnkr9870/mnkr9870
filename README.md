@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Nanda (@mnkr9870)
-- 👀 I’m interested in Full Stack Development, Machine Learning and Quantitative Research.
-- 🌱 I’m currently learning Node and GraphQL
-- 💞️ I’m looking to collaborate on Front-end Development including HTML/CSS, JavaScript, React or Flask.
+- 👀 I’m interested in Full Stack Development, Artificial Intelligence and Machine Learning.
+- 💞️ I’m looking to collaborate on Software Development including HTML/CSS, JavaScript, React or Flask.
 - 📫 You can reach me at nanda.mangunuri@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am 26 years old. I live in Leicester and I like photography and traveling.
+- ⚡ Fun fact: I am 27 years old. I live in Hyderabad and I like photography and traveling.
 
 # My Recent Projects
 - I am excited to share that I have taught myself React JS and Tailwind CSS and successfully developed some websites.
