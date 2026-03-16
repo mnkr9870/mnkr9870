@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nanda (@mnkr9870)
 - 👀 I’m interested in Full Stack Development, Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on Software Development including HTML/CSS, JavaScript, React or Flask.
+- 💞️ I’m looking to collaborate on Software Development including HTML/CSS, JavaScript, React, Python.
 - 📫 You can reach me at nanda.mangunuri@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am 27 years old. I live in Hyderabad and I like photography and traveling.
