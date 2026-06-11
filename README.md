@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Software Development including HTML/CSS, JavaScript, React, Python.
 - 📫 You can reach me at nanda.mangunuri@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am 27 years old. I live in Hyderabad and I like photography and traveling.
+- ⚡ Facts: I live in Hyderabad and I like photography and traveling.
 
 # My Recent Projects
 - I am excited to share that I have taught myself React JS and Tailwind CSS and successfully developed some websites.
