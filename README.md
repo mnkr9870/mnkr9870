@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nanda (@mnkr9870)
-- 👀 I’m interested in Full Stack Development, Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on Software Development including HTML/CSS, JavaScript, React, Python.
+- 👀 I’m interested in Product Management, Full Stack Development, Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Technical Product Management, Software Development including React, Python, AI.
 - 📫 You can reach me at nanda.mangunuri@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Facts: I live in Hyderabad and I like photography and traveling.
