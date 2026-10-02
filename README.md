@@ -25,7 +25,7 @@ Python • FastAPI • Flask • PostgreSQL • Azure • Docker • CI/CD • R
 
 ## Connect
 
-🌐 Portfolio: [backend.nandakishore.co.uk](https://backend.nandakishore.co.uk)
+🌐 Portfolio: [Nanda Kishore](https://backend.nandakishore.co.uk)
 
 💼 LinkedIn: [Nanda Kishore Mangunuri](https://www.linkedin.com/in/nanda-kishore-mangunuri/)
 
