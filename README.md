@@ -1,20 +1,36 @@
-- 👋 Hi, I’m Nanda (@mnkr9870)
-- 👀 I’m interested in Product Management, Full Stack Development, Artificial Intelligence.
-- 💞️ I’m looking to collaborate on Technical Product Management, Software Development including React, Python, AI.
-- 📫 You can reach me at nanda.mangunuri@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Facts: I live in Hyderabad and I like photography and traveling.
+# Hi, I'm Nanda Kishore 👋
 
-# My Recent Projects
-- I am excited to share that I have taught myself React JS and Tailwind CSS and successfully developed some websites.
-# 1. Web Expense Tracker App
-- This project is a web-based expense tracker application developed using React JS, Hooks and Context API
-- The link to this web app can be found here: https://web-expense-tracker-nk.netlify.app/
-# 2. Digital Cover Letter : 
-- This is a new all-in-one template website showcasing portfolio, skills and interests.
-- The beta website is available here: https://digital-cover-letter.netlify.app/
+Backend Software Engineer with 6 years of experience building production systems across enterprise banking, IoT, and AI products in both India and the UK.
 
-<!---
-mnkr9870/mnkr9870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialise in designing scalable backend services, APIs, and cloud-native platforms using Python, FastAPI, PostgreSQL, and Azure. I enjoy turning complex requirements into reliable systems that balance technical quality, maintainability, and business value.
+
+## What I'm Working On
+
+- Backend architecture and API design
+- Cloud-native applications on Azure
+- AI-enabled products and services
+- Production reliability and observability
+- Performance optimisation and scalability
+
+## Tech Stack
+
+Python • FastAPI • Flask • PostgreSQL • Azure • Docker • CI/CD • React • TypeScript • REST APIs
+
+## Featured Repositories
+
+- Pension Fund Management Platform
+- Face Recognition with OpenCV
+- Portfolio Website
+- Other backend and full-stack projects
+
+## Connect
+
+🌐 Portfolio: [backend.nandakishore.co.uk](https://backend.nandakishore.co.uk)
+
+💼 LinkedIn: [Nanda Kishore Mangunuri](https://www.linkedin.com/in/nanda-kishore-mangunuri/)
+
+📫 Email: nanda.mangunuri@gmail.com
+
+## Beyond Engineering
+
+Photography • Travel • Continuous Learning
